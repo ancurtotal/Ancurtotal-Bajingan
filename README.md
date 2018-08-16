@@ -12,13 +12,13 @@ $ gem install lolcat
 $ pkg install sh
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/ancurtotal/Ancurtotal-Admin-Finder
+$ git clone https://github.com/ancurtotal/Ancurtotal-Bajingan
 
 ```MENJALANKANNYA```
 
-$ cd Ancurtotal-Admin-Finder
-$ chmod +x Ancurtotal-Admin-Finder.sh
-$ sh Ancurtotal-Admin-Finder.sh
+$ cd Ancurtotal-Bajingan
+$ chmod +x Ancurtotal-Bajingan
+$ ./Ancurtotal-Bajingan
 
 username : AncurtotalBajingan
 password : SODC
