@@ -93,7 +93,7 @@ echo $b "00. Exit${enda}";
 echo "============================" | lolcat
 echo "     [PILIH NOMORNYA BRO]"
 echo
-read -p "Ancurtotal@Admin-Finder ~>>" pil;
+read -p "Ancurtotal@Bajingan ~>>" pil;
 
 #Install Tools B4J1N64N2
 
