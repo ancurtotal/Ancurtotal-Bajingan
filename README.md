@@ -21,7 +21,7 @@ $ chmod +x Ancurtotal-Bajingan
 $ ./Ancurtotal-Bajingan
 
 username : AncurtotalBajingan
-password : SODC
+password : EKAY
 
-EKAY ANCURTOTAL
-SCARY OF DEMON CYBER
+   EKAY ANCURTOTAL
+ANCURTOTAL CYBER TEAM
